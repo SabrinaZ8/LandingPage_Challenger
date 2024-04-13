@@ -19,16 +19,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Simple Omelette Recipe](https://landing-page-challenger-nine.vercel.app/)
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### Continued development
 
@@ -36,4 +34,4 @@ This challenge was great for testing my knowledge of HTML and CSS, I intend to c
 
 ## Author
 
-- Website - [Add your name here](https://)
+- Website - [Shortly](https://)
