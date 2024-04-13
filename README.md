@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ![Preview for the recipe page coding](./recipe-page-main/assets/images/resolution_preview.jpeg)
 
 ### Links
-
+- Solution URL: [Solução no Frontend Mentor](https://www.frontendmentor.io/solutions/soluo-pagina-de-receita-omelete-pwqVedKBu3)
 - Live Site URL: [Simple Omelette Recipe](https://landing-page-challenger-nine.vercel.app/)
 
 ### Built with
