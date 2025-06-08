@@ -34,4 +34,6 @@ This challenge was great for testing my knowledge of HTML and CSS, I intend to c
 
 ## Author
 
-- Website - [Shortly](https://)
+- Frontend Mentor - [@SabrinaZ8](https://www.frontendmentor.io/profile/SabrinaZ8)
+- Portfolio - [Sabrina Souza](https://portfolio-sabrina-souza.vercel.app/)
+- LinkedIn - [Sabrina Souza](https://www.linkedin.com/in/sabrina-souza-dev/)
